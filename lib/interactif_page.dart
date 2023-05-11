@@ -144,7 +144,7 @@ class InteractifPageState extends State<InteractifPage> {
       )),
       floatingActionButton: FloatingActionButton(
         onPressed: updateColors,
-        child: const Icon(Icons.build),
+        child: const Icon(Icons.shield_moon),
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
     );
